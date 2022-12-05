@@ -117,9 +117,9 @@ p{
 
 }
 .secondsubonesecond p{
-    color: gray;
+    color: #b9b9b9;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
     font-size: 18px;
 }
 
@@ -181,19 +181,18 @@ p{
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    background-color: #f9f9f9;
 }
 
 .cardcvc i{
-    padding: 12px;
+    padding: 18px;
     background-color:#f9f9f9 ;
 
      
 }
 .cardcvc input{
     width: 80%;
-    padding: 10px;
-    border-color: transparent;
+    padding: 18px;
+        border-color: transparent;
     background-color:#f9f9f9 ;
 }
 
@@ -204,7 +203,7 @@ p{
 }
 .cardcvcone select{
     width: 100%;
-    padding: 10px;
+    padding: 15px;
     background-color:#f9f9f9 ;
     font-size: 14px;
     border-color: transparent;
